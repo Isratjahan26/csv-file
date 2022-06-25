@@ -1,0 +1,17 @@
+    img {
+        padding-right: 6px;
+        height: 30px;
+        width: 30px;
+    }
+    
+    btn btn-primary {
+        background-color: rgb(255, 192, 250);
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    p {
+        text-align: center;
+    }
